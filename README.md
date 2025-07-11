@@ -1,7 +1,7 @@
 # Duolingo Clone
 [![pages-build-deployment](https://github.com/Nexus-Experion/duolingo-clone/actions/workflows/pages/pages-build-deployment/badge.svg?branch=duolingo-dev)](https://github.com/Nexus-Experion/duolingo-clone/actions/workflows/pages/pages-build-deployment)
 
-A website clone of [Duolingo](https://duolingo.com), A language learning app, done as part of ILP phase 1 in experion-technologies.
+A website clone of [Duolingo](https://duolingo.com), A language learning app.
 ### Technologies used
 - HTML5
 - CSS3
